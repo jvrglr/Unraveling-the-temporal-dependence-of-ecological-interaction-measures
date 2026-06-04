@@ -8,6 +8,7 @@ Codes and datasets used in Ref. [1].
   * **M_declarations.f90**:  Define public variables to be used in the rest of modules. Parameters and variables are defined in Eqs.  (9) and (10) of Ref.[1].
   * **M_functions.f90**: Mathematical functions used in the main codes. Here resource renewal and consumer consumption functions are defined.
   * **M_subroutines.f90**: Main script containing codes for numerical integration of consumer-resource model and computation of interaction measures from trajectories.
+  * **GH_main_inference.f90**: Example of code to generate synthetic data and compute interactions from it used to generate Fig. 7 in Ref.[1].
   
 ## Data
 Data rights belong to the parties responsible for data acquisition. 
