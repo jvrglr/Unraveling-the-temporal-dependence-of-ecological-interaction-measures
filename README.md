@@ -3,14 +3,16 @@ Codes and datasets used in Ref. [1].
 
 ## Codes
 
-* **Grasshopper.py** Compute interactions from grasshopper abundance data (Figs.2 and A.1 in Ref. [1])
+* **Grasshopper.py**: Compute interactions from grasshopper abundance data (Figs.2 and A.1 in Ref. [1]).
+* **synthetic_data**: Fortran codes to generate data through integration of consumer-resource model and compute measures of interaction from it.
+  * **M_declarations.f90**:  
   
 ## Data
 Data rights belong to the parties responsible for data acquisition. 
 
 Any use or distribution of the data should be accompanied by citation of the original data sources (see below) and discussed with the parties responsible for data acquisition.
 
-* **Grasshopper data** Grasshopper abundances over time extracted from Fig.1 in ref. [2].
+* **Grasshopper data**: Grasshopper abundances over time extracted from Fig.1 in ref. [2].
 
 ## License
 This project is shared for **academic and research purposes**. 
