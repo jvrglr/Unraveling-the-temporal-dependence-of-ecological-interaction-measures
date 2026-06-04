@@ -10,6 +10,7 @@ Codes and datasets used in Ref. [1].
   * **dranxor.f90**: Pseudo random number generator.
   * **M_subroutines.f90**: Main script containing codes for numerical integration of consumer-resource model and computation of interaction measures from trajectories.
   * **GH_main_inference.f90**: Example of code to generate synthetic data and compute interactions from it used to generate Fig. 7 in Ref.[1].
+  * **GH_main_measure_M_in_time_general_CR_different_renewal.f90**:  Example of code to generate synthetic data and compute interactions from it used to generate Fig. 6 in Ref.[1].
   
 ## Data
 Data rights belong to the parties responsible for data acquisition. 
