@@ -38,7 +38,7 @@ The codes are free to use, redistribute, modify, and share for research purposes
 
 ## References
 
-[1] Aguilar J., Suweis S., Maritan A., Azaele S. Phys. Rev. X Life (2026). [10.1103/8fb1-jmqh]([https://datadryad.org/dataset/doi:10.15146/5xcp-0d46](https://journals.aps.org/prxlife/accepted/10.1103/8fb1-jmqh))
+[1] Aguilar J., Suweis S., Maritan A., Azaele S. Phys. Rev. X Life (2026). [10.1103/8fb1-jmqh](https://journals.aps.org/prxlife/accepted/10.1103/8fb1-jmqh)
 
 [2] Ritchie, M. E., & Tilman, D. (1993). Oecologia, 94(4), 516-527. [10.1007/BF00566967](https://doi.org/10.1007/BF00566967)
 ]
